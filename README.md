@@ -33,6 +33,7 @@ FastAPI 기반 백엔드 API와 React 기반 프론트엔드를 구축하고, �
   - Uvicorn 비동기 웹 서버
   - CORS 미들웨어 적용
   - 인메모리 메모 CRUD 엔드포인트 (/memos)
+```
 
 ## 📂 프로젝트 구조 (Repository Structure)
   01_assignment1/
