@@ -126,7 +126,7 @@ export default function App() {
           textAlign: "center"
         }}>
           <img 
-            src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80" 
+            src="https://github.com/jeehoshin.png" 
             alt="신지호 프로필 사진"
             style={{
               width: "90px",
@@ -142,8 +142,8 @@ export default function App() {
             KAIST 디지털금융 MBA
           </p>
           <p style={{ margin: "0 0 18px 0", color: theme.subText, fontSize: "14px", lineHeight: "1.6" }}>
-            은행에서 리스크 관리를 맡고 있습니다.<br />
-            클라우드 기반의 풀스택 아키텍처를 학습하고 있습니다.
+            NICE평가정보에서 기업신용평가모형 및 기업여신 자동심사모형 컨설팅 업무를 맡고 있습니다.<br />
+            클라우드 컴퓨팅 실습 수업을 듣고 있습니다. 이번 과제를 통해 FastAPI와 Render를 활용한 백엔드 연동 경험을 쌓고자 합니다.
           </p>
           <div style={{ display: "flex", justifyContent: "center", gap: "10px" }}>
             <a 
