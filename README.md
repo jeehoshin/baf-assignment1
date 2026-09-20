@@ -34,7 +34,7 @@ FastAPI 기반 백엔드 API와 React 기반 프론트엔드를 구축하고, �
   - CORS 미들웨어 적용
   - 인메모리 메모 CRUD 엔드포인트 (/memos)
 
-  
+## 📂 프로젝트 구조 (Repository Structure)
   01_assignment1/
 ├── backend/                  # FastAPI 백엔드
 │   ├── main.py               # API 라우트 및 비즈니스 로직
@@ -48,6 +48,7 @@ FastAPI 기반 백엔드 API와 React 기반 프론트엔드를 구축하고, �
 ├── .gitignore                # 가상환경 및 모듈 제외 설정
 └── README.md                 # 프로젝트 안내 문서
 
+## 👨‍💻 작성자
 이름: 신지호
 소속: KAIST 디지털금융 MBA
 GitHub: @jeehoshin
